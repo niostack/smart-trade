@@ -1,0 +1,27 @@
+{
+  "name": "smtd",
+  "version": "1.0.0",
+  "description": "smart-trade",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niostack/smart-trade.git"
+  },
+  "keywords": [
+    "web3",
+    "trade",
+    "okx"
+  ],
+  "author": "niostack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niostack/smart-trade/issues"
+  },
+  "homepage": "https://github.com/niostack/smart-trade#readme",
+  "dependencies": {
+    "ccxt": "^4.4.34"
+  }
+}
